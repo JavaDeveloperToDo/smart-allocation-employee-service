@@ -11,6 +11,8 @@ public class AppConfig {
 
     {
         log.info("I am a block from config file");
+        log.info("testing merge conflicts");
         log.warn("testing merge conflicts from STS");
+
     }
 }
