@@ -14,6 +14,7 @@ public class AppConfig {
         log.info("testing merge conflicts");
         log.warn("testing merge conflicts from STS");
         log.error("Testing Integration");
+        log.info("added from IntelliJ to the Integration");
 
     }
 }
